@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh</h1>
 <h3 align="center">A bug from India</h3>
-<img align= "centre" alt="batman" width="400" src="<iframe src="https://giphy.com/embed/5RQ5qgeXzIHTi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1960s-5RQ5qgeXzIHTi">via GIPHY</a></p>"> 
+<img align= "centre" alt="batman" width="400" src="<iframe src="https://giphy.com/embed/5RQ5qgeXzIHTi"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsikka&label=Profile%20views&color=0e75b6&style=flat" alt="imsikka" /> </p>
 
